@@ -1,4 +1,4 @@
-FCP Upgrade Web
+RxJS implementation example
 
 Tech - Angular 13.
 
